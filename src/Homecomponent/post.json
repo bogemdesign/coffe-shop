@@ -1,0 +1,21 @@
+[
+  {
+    "id" :"1"
+    "name":"Capucino",
+    "harga" : "$5"
+    "img" : "https://source.unsplash.com/random/800x800"
+  },
+  {
+    "id" :"2"
+    "name":"mocacino",
+    "harga" : "$6"
+    "img" : "https://source.unsplash.com/random/800x800"
+  },
+  {
+    "id" :"3"
+    "name":"vanila",
+    "harga" : "$7"
+    "img" : "https://source.unsplash.com/random/800x800"
+  }
+  
+]
